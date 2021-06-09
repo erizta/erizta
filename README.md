@@ -4,6 +4,7 @@
 <p align="center">Web Developer ✨✨</p>
 
 - 🌱 I've recently built web applications that delight using React JS and currently experimenting with another javascript framework. 
+- 🔭 I spend my whole day, practically every day, experimenting with another javascript framework. I build websites that delight and inform. I do it well.
 - ⚡ I have good sense of design 😄
 
 ## Reach me!
