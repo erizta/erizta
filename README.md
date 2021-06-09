@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"><img src="header.png" width="800px" /></p>
 
-<p align="center">currently working as Freelance Web Developer ✨✨</p>
+<p align="center">Web Developer ✨✨</p>
 
 - 🌱 I've recently built web applications that delight using React JS and currently experimenting with another javascript framework. 
 - ⚡ I have good sense of design 😄
