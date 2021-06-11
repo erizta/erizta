@@ -11,8 +11,8 @@
 <img src="https://img.icons8.com/dusk/64/000000/twitter.png" width="20"/>   [Twitter](https://twitter.com/erztfd) <br/>
 <img src="https://img.icons8.com/dusk/64/000000/facebook.png" width="20"/>   [Facebook](https://www.facebook.com/erizta) <br/>
 <img src="https://img.icons8.com/dusk/64/000000/linkedin.png" width="20"/>   [Linked.in](http://linked.in/erizta) <br/>
-<img src="https://img.icons8.com/dusk/64/000000/gmail.png" width="20"/>  [Gmail](mailto:eriztaalifad?subject=Let's%20Talk)
-
+<img src="https://img.icons8.com/dusk/64/000000/gmail.png" width="20"/>  [Gmail](mailto:eriztaalifad?subject=Let's%20Talk) <br/>
+<img src="https://img.icons8.com/dusk/64/000000/web.png" width="20"/> [Web](https://erizta.netlify.app)
 <!--
 **erizta/erizta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
