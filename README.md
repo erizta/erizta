@@ -5,16 +5,12 @@
 
 ## 👨‍💻 About Me
 I am a front-end developer
-- :telescope: I’m currently looking for job opportunities as a software engineer (frontend).
+- :telescope: I've recently built web applications that delight using React JS and currently experimenting with another javascript framework. I’m currently looking for job opportunities as a software engineer (frontend).
 
-- :seedling: Always exploring new technologies that are relevant to my role.
+- :seedling: Always exploring new technologies that are relevant to my role, practically every day, experimenting with another javascript framework. I build websites that delight and inform. I do it well.
 
 - :zap: I’m currently working on a website app (React JS and Next JS).
 ---
-
-- 🌱 I've recently built web applications that delight using React JS and currently experimenting with another javascript framework. 
-- 🔭 I spend my whole day, practically every day, experimenting with another javascript framework. I build websites that delight and inform. I do it well.
-- ⚡ I have good sense of design 😄
 
 ## Reach me! 🌐
 <img src="https://img.icons8.com/dusk/64/000000/facebook.png" width="20"/>   [Facebook](https://www.facebook.com/erizta) <br/>
