@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 I am a front-end developer
-- :telescope: I've recently built web applications that delight using React JS and currently experimenting with another javascript framework. I’m currently looking for job opportunities as a software engineer (frontend).
+- :telescope: I've recently built web applications using React JS.
 
-- :seedling: Always exploring new technologies that are relevant to my role, practically every day, experimenting with another javascript framework. I build websites that delight and inform. I do it well.
+- :seedling: Always exploring new technologies that are relevant to my role, experimenting with another javascript framework.
 
 - :zap: I’m currently working on a website app (React JS and Next JS).
 ---
