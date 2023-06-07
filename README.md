@@ -11,8 +11,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/erizta/count.svg" />
 </p>
-  
-    </div>
+
 
 
 ## 👨‍💻 About Me
