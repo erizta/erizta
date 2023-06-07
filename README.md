@@ -4,6 +4,16 @@
 <p align="center"><img src="header.png" width="800px" /></p>
 
 <p align="center">Frontend Developer✨✨</p>
+  
+  ## Glad to see you here! 👋🏻 &nbsp;
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/erizta/count.svg" />
+</p>
+  
+    </div>
+
 
 ## 👨‍💻 About Me
 I am a front-end developer
@@ -27,9 +37,34 @@ I am a front-end developer
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erizta&theme=algolia&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erizta&show_icons=true&count_private=true&theme=algolia)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erizta&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Erizta" height="192px"/>
+
+![GitHub metrics](https://metrics.lecoq.io/erizta)  
+<span style="padding-top: 20px;">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erizta&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td valign="top" width="50%">
+
+![](https://github-readme-stats.vercel.app/api?username=erizta&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+
+</td>
+<td valign="top" width="50%">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=erizta&theme=dark&hide_border=false)
+
+</td>
+</tr>
+</table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=erizta)
+</span>
+
+![](https://github-profile-trophy.vercel.app/?username=erizta&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=15&column=7)
+<br>
+<br>
 <!--
 **erizta/erizta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
