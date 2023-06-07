@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Erizta
+<div align="center" style="padding-bottom: 10px">
+
+# Hi, Erizta's here 🚀
 <p align="center"><img src="header.png" width="800px" /></p>
 
 <p align="center">Frontend Developer✨✨</p>
