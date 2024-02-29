@@ -2,8 +2,7 @@
 
 # Hi, Erizta's here 🚀
 
-<p align="center">Frontend Developer✨✨</p>
-  
+ 
   ## Glad to see you here! 👋🏻 &nbsp;
 
 <p align="center"> 
@@ -11,22 +10,8 @@
   <img src="https://profile-counter.glitch.me/erizta/count.svg" />
 </p>
 
-
-
-## 👨‍💻 About Me
-I am a front-end developer
- :telescope: I've recently built web applications using React JS.
-
- :seedling: Always exploring new technologies that are relevant to my role, experimenting with another javascript framework.
-
- :zap: I’m currently working on a website app (React JS and Next JS).
----
-
 ## Reach me! 🌐
-<img src="https://img.icons8.com/dusk/64/000000/facebook.png" width="20"/>   [Facebook](https://www.facebook.com/erizta) <br/>
-<img src="https://img.icons8.com/dusk/64/000000/linkedin.png" width="20"/>   [Linked.in](http://linked.in/erizta) <br/>
 <img src="https://img.icons8.com/dusk/64/000000/gmail.png" width="20"/>  [Gmail](mailto:eriztaalifad?subject=Let's%20Talk) <br/>
-<img src="https://img.icons8.com/dusk/64/000000/web.png" width="20"/> [Web](https://erizta.netlify.app)
 
 
 ## 💻 Tech Stack
